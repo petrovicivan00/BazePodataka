@@ -1,0 +1,5 @@
+package src.errorHandler;
+
+public enum Type {
+    COLUMN_NOT_FOUND, INVALID_QUERY, WRONG_FUNCTION_NAME, WRONG_PARAMETERS, SYNTAX_ERROR
+}
